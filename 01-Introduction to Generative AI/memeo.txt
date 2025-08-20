@@ -1,1 +1,16 @@
-memo file
+Module 1: Introduction to Generative AI
+Objective: Understand Generative AI and its applications.
+
+Training Content: Overview of LLMs, use cases, and tools (Grok, Jupyter Notebook, etc.).
+
+Lab: Interact with Grok in Jupyter Notebook for simple Q&A.
+
+Sub-Prompt Searches:Microsoft’s GitHub: “Generative AI for Beginners” lessons 1–3.
+AWS Skill Builder: “Introduction to Generative AI.”
+
+X: “Generative AI basics.”
+GitHub: “intro to LLMs” (e.g., mlabonne/llm-course).
+
+Tools: Grok Chat AI, Jupyter Notebook.
+
+
