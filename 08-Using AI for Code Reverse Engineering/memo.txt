@@ -4,3 +4,9 @@ https://github.com/krayin/laravel-crm
 https://github.com/twentyhq/twenty
 
 https://github.com/marmelab/atomic-crm
+
+https://github.com/MicroPyramid/opensource-startup-crm
+
+https://github.com/MicroPyramid/Django-CRM
+
+https://github.com/bottlecrm/bottlecrm
