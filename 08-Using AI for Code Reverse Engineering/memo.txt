@@ -1,1 +1,6 @@
+CRM 
+https://github.com/krayin/laravel-crm
 
+https://github.com/twentyhq/twenty
+
+https://github.com/marmelab/atomic-crm
