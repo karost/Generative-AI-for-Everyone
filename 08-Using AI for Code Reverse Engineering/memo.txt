@@ -10,3 +10,7 @@ https://github.com/MicroPyramid/opensource-startup-crm
 https://github.com/MicroPyramid/Django-CRM
 
 https://github.com/bottlecrm/bottlecrm
+
+git clone https://github.com/micropyramid/svelte-crm.git
+cd svelte-crm
+
