@@ -21,7 +21,8 @@ source ~/.zshrc
 
 
 ```sh
-
+// Check version
+nvm -v
 
 node -v || node --version
 
