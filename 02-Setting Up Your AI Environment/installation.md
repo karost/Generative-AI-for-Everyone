@@ -21,7 +21,7 @@ source ~/.zshrc
 
 ```
 
-
+2. Check NVM Version and Install Node.js with specific version
 
 ```sh
 // Check version
