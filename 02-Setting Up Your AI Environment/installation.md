@@ -6,7 +6,7 @@
 
 
 ~/.zshrc
-```
+```sh
 
 
 node -v || node --version
