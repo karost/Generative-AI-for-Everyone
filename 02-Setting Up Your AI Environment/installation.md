@@ -1,4 +1,6 @@
 ### INSTALL SOFTWARE
+https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script
+
 1. Node Version Manager (NVM)
 ```
 
