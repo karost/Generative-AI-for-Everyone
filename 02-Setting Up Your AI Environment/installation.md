@@ -3,8 +3,6 @@
 1. Node Version Manager (NVM)
 https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script
 
-current information, Node.js v22 is the active LTS version , v24 will active LTS at 2025
-
 ```
 
 // Download and Install
@@ -22,6 +20,7 @@ source ~/.zshrc
 ```
 
 2. Check NVM Version and Install Node.js with specific version
+current information, Node.js v22 is the active LTS version, v24 will active LTS 2025
 
 ```sh
 // Check version
