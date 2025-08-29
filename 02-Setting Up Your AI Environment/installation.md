@@ -24,12 +24,12 @@ source ~/.zshrc
 // Check version
 nvm -v
 
-node -v || node --version
+node -v 
 
 // list locally installed versions of node
 nvm ls
 
-// list remove available versions of node
+// list remote available versions of node
 nvm ls-remote
 
 // install specific version of node
