@@ -21,7 +21,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 source ~/.zshrc
 
 ```
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60">
 
 2. Check NVM Version and Install Node.js with a specific version
 current information, Node.js v22 is the active LTS version, v24 will active LTS 2025
@@ -56,7 +56,7 @@ nvm install stable
 ```
 
 
-<img src="https://www.anaconda.com/wp-content/uploads/2024/11/2020_Anaconda_Logo_RGB_Corporate.png" width="60"> 
+<img src="https://www.anaconda.com/wp-content/uploads/2024/11/2020_Anaconda_Logo_RGB_Corporate.png"> 
 
 3. Python Environment Manager ( VENV, Mini Conda )
 ```
