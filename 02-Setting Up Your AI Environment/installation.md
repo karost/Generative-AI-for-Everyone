@@ -21,6 +21,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 source ~/.zshrc
 
 ```
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">
 
 2. Check NVM Version and Install Node.js with a specific version
 current information, Node.js v22 is the active LTS version, v24 will active LTS 2025
