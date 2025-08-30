@@ -1,1 +1,5 @@
+A prompt engineer is someone who designs and creates instructions (called prompts) to get the best possible responses from AI tools, like chatbots or code assistants. Think of it like giving clear, specific directions to a super-smart assistant so it understands exactly what you want. For example, instead of asking an AI, "Tell me about dogs," a prompt engineer might ask, "List three fun facts about golden retrievers in simple words." Their job is to make AI answers more accurate, helpful, and easy to understand by crafting the right questions or tasks.
+
+Prompt engineer คือคนที่ออกแบบและเขียนคำสั่ง (ที่เรียกว่า prompt) เพื่อให้ได้คำตอบที่ดีที่สุด จากเครื่องมือ AI เช่น แชทบอทหรือผู้ช่วยเขียนโค้ด คิดง่าย ๆ เหมือนการให้คำแนะนำที่ชัดเจนและเจาะจงกับผู้ช่วยที่ฉลาดมาก ๆ เพื่อให้ AI เข้าใจว่าคุณต้องการอะไร เช่น แทนที่จะถาม AI ว่า “บอกฉันเกี่ยวกับหมา” prompt engineer อาจจะถามว่า “บอกสามข้อที่น่าสนใจเกี่ยวกับโกลเด้น รีทรีฟเวอร์ด้วยภาษาง่าย ๆ” งานของพวกเขาคือทำให้คำตอบจาก AI ชัดเจน มีประโยชน์ และเข้าใจง่าย ด้วยการสร้างคำถามหรือคำสั่งที่เหมาะสม
+
 
