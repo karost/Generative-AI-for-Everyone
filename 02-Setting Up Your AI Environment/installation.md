@@ -56,7 +56,7 @@ nvm install stable
 ```
 
 
-<img src="https://www.anaconda.com/wp-content/uploads/2024/11/2020_Anaconda_Logo_RGB_Corporate.png" width="140"> 
+<img src="https://www.anaconda.com/wp-content/uploads/2024/11/2020_Anaconda_Logo_RGB_Corporate.png" width="150"> 
 
 3. Python Environment Manager ( VENV, Mini Conda )
 ```
@@ -72,7 +72,7 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 # bash ~/Miniconda3-py39_25.7.0-2-MacOSX-x86_64.sh
 ```
 
-<img src="https://git-scm.com/images/logo@2x.png" width="100">
+<img src="https://git-scm.com/images/logo@2x.png" width="90">
 
 4. Git
 ```
