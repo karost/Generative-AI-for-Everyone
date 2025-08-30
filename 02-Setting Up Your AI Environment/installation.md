@@ -1,6 +1,6 @@
 ### INSTALL SOFTWARE for Generative Tools OUTPUT: [TEXT , IMAGE , VOICE , VIDEO ], INPUT: [ AI CHAT , AI CODE ASSISTANT, AI SEARCH ENGINE, MCP SERVER ]
 
-[Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+[![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
 
 1. Node Version Manager (NVM)
 https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script
