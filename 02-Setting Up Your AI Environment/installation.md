@@ -79,6 +79,7 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 https://git-scm.com/downloads
 ```
 
+<img src="images/icons/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="100">
 
 5. VS Code + Extension, Git
 
