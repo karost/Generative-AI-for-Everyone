@@ -4,7 +4,7 @@
 
 
 1. Node Version Manager (NVM)
-https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script
+![Node Version Manager](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
 
 ```
 
@@ -88,6 +88,8 @@ https://code.visualstudio.com/download
 ```
 
 6. Cloud LLM API Key (OpenAI, anthropic, DeepSeek ) export API_KEY to console environment
+
+
 
 7. AI Coding Assistants and AI Tools
 - CLI-based AI coding assistants ( Aider, Cusor, VS Code extension [CLINE]
