@@ -79,7 +79,12 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 https://git-scm.com/downloads
 ```
 
+
 5. VS Code + Extension, Git
+
+```
+https://code.visualstudio.com/download
+```
 
 6. Cloud LLM API Key (OpenAI, anthropic, DeepSeek ) export API_KEY to console environment
 
