@@ -56,7 +56,7 @@ nvm install stable
 ```
 
 
-<img src="https://www.anaconda.com/wp-content/uploads/2024/11/2020_Anaconda_Logo_RGB_Corporate.png"> 
+<img src="https://www.anaconda.com/wp-content/uploads/2024/11/2020_Anaconda_Logo_RGB_Corporate.png" width="80"> 
 
 3. Python Environment Manager ( VENV, Mini Conda )
 ```
