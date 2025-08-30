@@ -1,6 +1,6 @@
 ### INSTALL SOFTWARE for Generative Tools OUTPUT: [TEXT , IMAGE , VOICE , VIDEO ], INPUT: [ AI CHAT , AI CODE ASSISTANT, AI SEARCH ENGINE, MCP SERVER ]
 
-<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-color-avatar-white.png" width="50">
+<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-color-avatar-white.png" width="60">
 
 
 1. Node Version Manager (NVM)
@@ -21,7 +21,7 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 source ~/.zshrc
 
 ```
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60">
 
 2. Check NVM Version and Install Node.js with a specific version
 current information, Node.js v22 is the active LTS version, v24 will active LTS 2025
