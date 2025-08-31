@@ -73,12 +73,6 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
    
 - Link to Download:[Git Link](https://git-scm.com/downloads)
 
----
-<img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="100">
-5. VS Code + Extension, Git
-
-- Link to Download:[VS CODE ](https://code.visualstudio.com/download)
-
 The gh command is part of the GitHub CLI (Command Line Interface), which is a separate tool from the standard Git installation that comes with macOS. While Git is pre-installed, the GitHub CLI needs to be installed separately to gain access to the gh command.
 To install the GitHub CLI and enable the gh command on macOS, the recommended method is to use Homebrew:
 - go to release page: [Release page](https://github.com/cli/cli/?tab=readme-ov-file)
@@ -87,6 +81,13 @@ To install the GitHub CLI and enable the gh command on macOS, the recommended me
    sudo port install gh
  
   ```
+
+---
+<img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="100">
+5. VS Code + Extension, Git
+
+- Link to Download:[VS CODE ](https://code.visualstudio.com/download)
+
 ---
 6. Cloud LLM API Key (OpenAI, anthropic, DeepSeek ) export API_KEY to console environment
 
