@@ -108,6 +108,7 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
 9. MCP Server Tools
 
+<img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/claude-color.svg">
 
 [Claude Desktop](https://claude.ai/download)
 
