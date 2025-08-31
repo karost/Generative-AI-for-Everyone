@@ -1,7 +1,6 @@
 ### INSTALL SOFTWARE for Generative Tools 
 
-<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-color-avatar-white.png" width="60">
-1. Node Version Manager (NVM)
+<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-color-avatar-white.png" width="60">1. Node Version Manager (NVM)
 [Node Version Manager ](https://github.com/nvm-sh/nvm)
 
 ```
