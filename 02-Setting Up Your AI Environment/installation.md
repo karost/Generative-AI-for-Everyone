@@ -4,7 +4,7 @@
 
 
 1. Node Version Manager (NVM)
-![Node Version Manager](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
+![Node Version Manager](https://github.com/nvm-sh/nvm "xxx")
 
 ```
 
