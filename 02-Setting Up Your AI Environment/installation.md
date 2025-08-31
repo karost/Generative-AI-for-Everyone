@@ -125,5 +125,39 @@ Link to Download:
 10. Version Tools (AI generate video , voice , image )
 
 
+---
+
+
+# Installation Guide for Generative Tools
+
+This guide provides instructions for setting up software for generative tools with the following capabilities:
+- **Output**: Text, Image, Voice, Video
+- **Input**: AI Chat, AI Code Assistant, AI Search Engine, MCP Server
+
+---
+
+## 1. Node Version Manager (NVM)
+![NVM Logo](https://github.com/nvm-sh/logos/raw/main/nvm-logo-color-avatar-white.png?raw=true)
+
+[Node Version Manager](https://github.com/nvm-sh/nvm)
+
+### Installation Steps
+```bash
+// Download and Install
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+
+// Edit profile
+vi ~/.zshrc
+
+# Add the following to ~/.zshrc
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+
+// Reload profile
+source ~/.zshrc
+
+
+
+
 
 
