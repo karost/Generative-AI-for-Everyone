@@ -6,7 +6,7 @@ AI-optimized full-stack development workflow that addresses the identified weakn
 
 ### 1. pull business model from Ai 
 - **Example** pull business model for online shopping maketplace
-- **Inputs:** Business model [ you have to modify to meet the requiremnt ]
+- **Outputs:** Business model [ you have to modify to meet the requiremnt ]
 
 ### 2. Formal Product Requirements Document (PRD) Creation  
 - **Objective:** Develop a formal PRD capturing business goals, user personas, features, constraints, and acceptance criteria.  
