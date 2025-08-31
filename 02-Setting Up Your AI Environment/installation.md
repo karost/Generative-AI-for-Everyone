@@ -61,7 +61,7 @@ nvm install stable
 3. Python Environment Manager ( VENV, Mini Conda )
 Downlaod and install Miniconda
 
-[Miniconda ](https://www.anaconda.com/docs/getting-started/miniconda/install#using-miniconda-in-a-commercial-setting)
+- Link to Download:[Miniconda ](https://www.anaconda.com/docs/getting-started/miniconda/install#using-miniconda-in-a-commercial-setting)
 ```
 # mac-intel last version support
 curl -O https://repo.anaconda.com/miniconda/Miniconda3-py39_25.7.0-2-MacOSX-x86_64.sh
@@ -76,18 +76,18 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
 4. Git
    
-[Git Link](https://git-scm.com/downloads)
+- Link to Download:[Git Link](https://git-scm.com/downloads)
 
 
 <img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="100">
 
 5. VS Code + Extension, Git
 
-[VS CODE ](https://code.visualstudio.com/download)
+- Link to Download:[VS CODE ](https://code.visualstudio.com/download)
 
 
 6. Cloud LLM API Key (OpenAI, anthropic, DeepSeek ) export API_KEY to console environment
-
+Link to Download:      
 - [OpenAi Platfrom ](https://platform.openai.com/api-keys).
 
 - [Anthropic Platfrom](https://console.anthropic.com/login?returnTo=%2F%3F).
@@ -105,15 +105,13 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
 8. No-code/Low-code AI workflow automation tools ( n8n, flowise )
 
-- This site was built using [GitHub Pages](https://pages.github.com/).
-
 - Start make self host: [Self Host for n8n](https://docs.n8n.io/hosting/installation/npm/).
 
 9. MCP Server Tools
 
 <img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/claude-color.svg" width="50">
 
-- [Claude Desktop](https://claude.ai/download).
+- Link to Download:[Claude Desktop](https://claude.ai/download).
 
 
 
