@@ -87,7 +87,9 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
 
 6. Cloud LLM API Key (OpenAI, anthropic, DeepSeek ) export API_KEY to console environment
+
 Link to Download:      
+
 - [OpenAi Platfrom ](https://platform.openai.com/api-keys).
 
 - [Anthropic Platfrom](https://console.anthropic.com/login?returnTo=%2F%3F).
