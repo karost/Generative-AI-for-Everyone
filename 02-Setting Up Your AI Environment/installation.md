@@ -61,7 +61,7 @@ nvm install stable
 3. Python Environment Manager ( VENV, Mini Conda )
 Downlaod and install Miniconda
 
-[Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install#using-miniconda-in-a-commercial-setting)
+[Miniconda ](https://www.anaconda.com/docs/getting-started/miniconda/install#using-miniconda-in-a-commercial-setting)
 ```
 # mac-intel last version support
 curl -O https://repo.anaconda.com/miniconda/Miniconda3-py39_25.7.0-2-MacOSX-x86_64.sh
@@ -75,17 +75,16 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 <img src="https://git-scm.com/images/logo@2x.png" width="90">
 
 4. Git
-```
-https://git-scm.com/downloads
-```
+   
+[Git Link](https://git-scm.com/downloads)
+
 
 <img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="100">
 
 5. VS Code + Extension, Git
 
-```
-https://code.visualstudio.com/download
-```
+[VS CODE ](https://code.visualstudio.com/download)
+
 
 6. Cloud LLM API Key (OpenAI, anthropic, DeepSeek ) export API_KEY to console environment
 
