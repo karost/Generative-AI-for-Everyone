@@ -102,7 +102,12 @@ Link to Download:
 
 
 7. AI Coding Assistants and AI Tools
+
 - CLI-based AI coding assistants ( Aider, Cusor, VS Code extension [CLINE]
+   - Aider Link : [Aider Install](https://aider.chat/docs/install.html)
+ 
+   - CLINE Line : [CLINE GitHub](https://github.com/cline/cline)
+
 - Agentic CLI-coding assistants ( agentic CLI ):  Claude Code, Gemini CLI , Qwen CLI )
 
 8. No-code/Low-code AI workflow automation tools ( n8n, flowise )
