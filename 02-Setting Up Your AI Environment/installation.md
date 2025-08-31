@@ -105,6 +105,9 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
 8. No-code/Low-code AI workflow automation tools ( n8n, flowise )
 
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+[Self Host for n8n](https://docs.n8n.io/hosting/installation/npm/)
 
 9. MCP Server Tools
 
