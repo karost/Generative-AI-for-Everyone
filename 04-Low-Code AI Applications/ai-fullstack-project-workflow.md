@@ -11,47 +11,47 @@ AI-optimized full-stack development workflow that addresses the identified weakn
 ### 2. Formal Product Requirements Document (PRD) Creation  
 - **Objective:** Develop a formal PRD capturing business goals, user personas, features, constraints, and acceptance criteria.  
 - **Inputs:** Business model, stakeholder interviews.  
-- **Outputs:** PRD document as the single source of truth for all teams and AI tools.
+- **Outputs:** PRD document as the single source of truth for all teams and AI tools that understand business model in details.
 
 ### 3. Use Case Generation Linked to PRD  
 - **Objective:** Derive detailed use cases directly from PRD requirements, ensuring traceability.  
-- **Inputs:** PRD.  
-- **Outputs:** Use case list with unique IDs linked back to PRD items.
+- **Inputs:** PRD with id.  
+- **Outputs:** Use case list with unique IDs Matrix linked back to PRD items id.
 
 ### 4. Top-Level Architecture & Technology Stack Design  
-- **Objective:** Design scalable architecture aligned with PRD requirements and modern tech constraints (no Express).  
-- **Inputs:** Use cases, PRD.  
-- **Outputs:** Architecture diagrams, technology decisions documented.
+- **Objective:** Design scalable architecture aligned with PRD requirements and modern tech constraints .  
+- **Inputs:** Use cases, PRD. and technical stack (top level).  
+- **Outputs:** Architecture diagrams, technology decisions documented and technical stack (top level).
 
 ### 5. Detailed UML Design & Traceability Matrices  
 - **Objective:** Create detailed UML diagrams and establish traceability matrices linking UML, use cases, and PRD.  
 - **Inputs:** Architecture design, use cases.  
-- **Outputs:** UML diagrams, traceability matrices for validation.
+- **Outputs:** UML diagrams, traceability matrices links (TML) for validation.
 
 ### 6. API Design Specifications with PRD Linkage  
-- **Objective:** Design APIs with end-to-end traceability to PRD and UML diagrams.  
-- **Inputs:** UML, PRD.  
+- **Objective:** Design APIs with end-to-end traceability to TML, PRD and UML diagrams.  
+- **Inputs:** UML, PRD, TML  
 - **Outputs:** API specs with reference to originating requirements.
 
-### 7. Sequence Diagram Breakdown & Modular Software Design with Validation Rules  
-- **Objective:** Convert sequence diagrams into software design components guided by AI rules for correctness and completeness.  
-- **Inputs:** Sequence diagrams, validation rule set.  
+### 7. Class Diagram and Sequence Diagram Breakdown & Modular Software Design with Validation Rules  
+- **Objective:** Convert class diagrams and sequence diagrams into software design components guided by AI rules for correctness and completeness.  
+- **Inputs:** Class Diagrams,Sequence diagrams, validation rule set.  
 - **Outputs:** Modular design docs verified by AI.
 
 ### 8. Use Case-Driven Testing & Automated UAT with Traceability  
-- **Objective:** Generate manual and automated test scripts from use cases, maintaining traceability to PRD and user acceptance criteria.  
-- **Inputs:** Use cases, PRD.  
-- **Outputs:** Test cases, automated test scripts, UAT plans, traceability matrices.
+- **Objective:** Generate manual and automated test scripts from use cases, maintaining traceability to PRD and user acceptance criteria. ( the idea like flip Use Case to UAT )   
+- **Inputs:** Use cases, PRD,TML  
+- **Outputs:** Test cases, automated test scripts, UAT plans, TML.
 
 ### 9. Technology Foundations & AI Boilerplate Setup with Guidelines  
 - **Objective:** Set up reusable codebases and UI components with coding standards and AI interaction guidelines.  
-- **Inputs:** Architecture, design specs, coding standards.  
-- **Outputs:** Boilerplate projects and documentation guiding AI code generation.
+- **Inputs:** Architecture, design specs, coding standards,TML.  
+- **Outputs:** Boilerplate projects and documentation guiding AI code generation and TML.
 
 ### 10. AI-Driven Incremental Code Generation & Continuous Feedback  
 - **Objective:** Use AI for incremental code generation with continuous feedback loops, reviews, and validations against PRD and test results.  
-- **Inputs:** API specs, boilerplates, test plans.  
-- **Outputs:** Verified source code modules with iteration reports.
+- **Inputs:** API specs, boilerplates, test plans AND TML.  
+- **Outputs:** Verified source code modules with iteration reports and TML.
 
 ### 11. AI-Assisted Code Review, Quality Gates & Automated Testing Pipelines  
 - **Objective:** Setup AI-driven code quality gates, static analysis, and continuous testing integrated with CI/CD.  
@@ -61,7 +61,7 @@ AI-optimized full-stack development workflow that addresses the identified weakn
 ### 12. Continuous Collaboration & Documentation Refinement  
 - **Objective:** Maintain evolving documentation, coding conventions, and architecture with collaborative tools and AI support for consistency.  
 - **Inputs:** All project artifacts, feedback loops.  
-- **Outputs:** Updated documentation and coding standards repository.
+- **Outputs:** Updated documentation and coding standards repository and TML.
 
 ### 13. Phase Checkpoints & Iteration Reviews (Inspired by SDLC)  
 - **Objective:** Define explicit phase gates (requirements validation, design review, testing sign-off) with AI and human reviewers jointly approving continuations.  
