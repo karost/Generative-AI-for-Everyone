@@ -109,6 +109,10 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 9. MCP Server Tools
 
 
+[Claude Desktop](https://claude.ai/download)
+
+
+
 10. Version Tools (AI generate video , voice , image )
 
 
