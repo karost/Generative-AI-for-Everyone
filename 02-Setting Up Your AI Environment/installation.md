@@ -73,7 +73,7 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
    
 - Link to Download:[Git Link](https://git-scm.com/downloads)
 
-
+---
 <img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" width="100">
 5. VS Code + Extension, Git
 
