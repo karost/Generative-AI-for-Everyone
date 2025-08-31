@@ -88,13 +88,13 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
 6. Cloud LLM API Key (OpenAI, anthropic, DeepSeek ) export API_KEY to console environment
 
-[OpenAi Platfrom ](https://platform.openai.com/api-keys)
+- [OpenAi Platfrom ](https://platform.openai.com/api-keys).
 
-[Anthropic Platfrom](https://console.anthropic.com/login?returnTo=%2F%3F)
+- [Anthropic Platfrom](https://console.anthropic.com/login?returnTo=%2F%3F).
 
-[DeepSeek Platfrom](https://platform.deepseek.com/sign_in)
+- [DeepSeek Platfrom](https://platform.deepseek.com/sign_in).
 
-[Google Free API KEY](https://aistudio.google.com/apikey)
+- [Google Free API KEY](https://aistudio.google.com/apikey).
 
 
 
@@ -105,15 +105,15 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 
 8. No-code/Low-code AI workflow automation tools ( n8n, flowise )
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+- This site was built using [GitHub Pages](https://pages.github.com/).
 
-[Self Host for n8n](https://docs.n8n.io/hosting/installation/npm/)
+- Start make self host: [Self Host for n8n](https://docs.n8n.io/hosting/installation/npm/).
 
 9. MCP Server Tools
 
 <img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/icons/claude-color.svg" width="50">
 
-[Claude Desktop](https://claude.ai/download)
+- [Claude Desktop](https://claude.ai/download).
 
 
 
