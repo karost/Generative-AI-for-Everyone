@@ -13,10 +13,3 @@ Generative AI revolutionizes application development by offering diverse methods
 **Why Low-Code/No-Code?** Low-code/no-code platforms democratize development, letting non-coders build apps using drag-and-drop interfaces. Generative AI enhances these platforms by suggesting UI elements, automating logic, or generating custom code for advanced features. For example, Bubble’s AI can propose database structures, while OutSystems uses AI to optimize workflows. This approach is ideal for startups or non-technical users creating MVPs but may lack the flexibility of traditional coding for highly customized apps.
 
 These four approaches—code generation, LLM + search, reverse engineering, and low-code/no-code—showcase generative AI’s versatility. By combining precise prompts, validation, and tools like RAG or visual platforms, developers and non-coders alike can build robust applications efficiently.
-
-**Word Count**: 400
-
-### Notes
-- **Why I Didn’t Include Low-Code/No-Code Initially**: Your original points emphasized hands-on coding workflows (e.g., Pygame, GitHub repos), so I focused on those. Low-code/no-code is less code-centric but a valid and growing approach, especially with AI integration.
-- **Table Format**: The table summarizes each approach’s mechanics, AI role, audience, and trade-offs for clarity.
-- **Code Example**: If you want, I can provide a code snippet (e.g., Pygame Snake game) to illustrate the first approach or explore how AI enhances a low-code platform like Bubble. Let me know what you’d like to dive into! 😃
