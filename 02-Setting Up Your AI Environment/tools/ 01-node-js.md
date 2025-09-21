@@ -20,4 +20,37 @@ source ~/.zshrc
 
 ```
 ---
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100">
+2. Check NVM Version and Install Node.js with a specific version
+current information, Node.js v22 is the active LTS version, v24 will active LTS 2025
+
+```sh
+// Check version
+nvm -v
+
+node -v 
+
+// list locally installed versions of node
+nvm ls
+
+// list remote available versions of node
+nvm ls-remote
+
+// install specific version of node
+nvm install 18.16.1
+
+// set default version of node
+nvm alias default 18.16.1
+
+// switch version of node
+nvm use 20.5.1
+
+// install latest LTS version of node (Long Term Support)
+nvm install --lts
+
+// install the latest stable version of Node
+nvm install stable
+
+```
+---
 
