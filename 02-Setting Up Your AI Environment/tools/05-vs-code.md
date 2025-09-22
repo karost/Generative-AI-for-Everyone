@@ -6,7 +6,19 @@
 https://code.visualstudio.com/download
 
 ---
+Fix problem when can not run code . in console
 
+```
+Open VS Code.
+Press Cmd+Shift+P to open the Command Palette.
+Type and select:
+Shell Command: Install 'code' command in PATH
+```
+
+
+
+
+---
 ##### TOP EXTENSION 
 - Material Icon Theme
 - Tailwind CSS IntelliSense
