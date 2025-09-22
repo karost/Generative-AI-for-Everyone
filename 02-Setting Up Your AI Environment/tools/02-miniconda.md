@@ -15,7 +15,8 @@ curl -Ohttps://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
 ---
 FIX problem 
 
-REMOVE 
+edit file ~/.zshrc
+remove or command 
 ```
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -36,7 +37,7 @@ REMOVE
 # <<< conda initialize <<<
 
 ```
-REPLACE WITH:
+add this two line:
 ```
 export PATH="/Users/thanit/miniconda3/bin:$PATH"
 alias conda-init='source ~/miniconda3/etc/profile.d/conda.sh'
