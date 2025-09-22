@@ -5,3 +5,9 @@
 
 https://code.visualstudio.com/download
 
+---
+
+##### TOP EXTENSION 
+- Material Icon Theme
+- Tailwind CSS IntelliSense
+- Markdown Preview Enhanced
