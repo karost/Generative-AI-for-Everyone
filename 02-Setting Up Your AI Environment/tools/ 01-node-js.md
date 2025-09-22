@@ -19,6 +19,10 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 source ~/.zshrc
 
 ```
+for windows 11
+
+https://github.com/coreybutler/nvm-windows
+
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100">
 2. Check NVM Version and Install Node.js with a specific version
