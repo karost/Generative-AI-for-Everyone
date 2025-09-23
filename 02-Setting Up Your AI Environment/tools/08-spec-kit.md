@@ -7,7 +7,7 @@ uv tool install specify-cli --from git+https://github.com/github/spec-kit.git
 specify init <PROJECT_NAME>
 specify check
 ```
-##​​​# 3. Create project ( prd ,  using ai chat )
+##​​​# 3. Create project details
 
 draft : 1
 ```
@@ -180,6 +180,63 @@ This improved documentation ensures completeness and reliability for developers,
 [19](https://decode.agency/article/functional-requirements-examples/)
 [20](https://firdoshkhan.in/top-10-marketing-for-education-case-studies/)
 ```
+### 4. Make constution md 
+```
+Below is a constitution.md draft tailored for your bilingual advertising and marketing tutorial website project (Next.js/Tailwind, Thai/English) using Spec Kit. This constitution covers code quality, testing standards, user experience consistency, performance guidelines, governance, and project-specific principles aligned with your requirements.[1]
+
+***
+
+# constitution.md
+
+## Project Governing Principles
+
+### 1. Code Quality  
+- All code must be modular, reusable, and readable, following Next.js and Tailwind CSS conventions.  
+- All functionality—including multilingual support, quizzes, and data access—should be strictly separated into maintainable components and services.  
+- Use only up-to-date, supported dependencies. Avoid unnecessary complexity.
+
+### 2. Testing Standards  
+- Unit, integration, and UI tests must be written for every new feature or bug fix.  
+- All quizzes, language switching, and lesson navigation must have automated tests covering both Thai and English scenarios.  
+- Test coverage targets 90% for critical business logic (course content loading, user progress, and language persistence).
+
+### 3. User Experience Consistency  
+- Interfaces should be fully responsive, meeting mobile and desktop usability requirements.  
+- Switching between Thai and English must happen instantly, reflecting throughout navigation and content.  
+- The site must remember user language and progress reliably on all devices.  
+- All images, icons, and content must be relevant to Thai and international contexts.
+
+### 4. Performance Guidelines  
+- Initial page load must complete in under 2 seconds for regional users.  
+- All JSON data updates and content rendering should be hot-reloaded and not require downtime.  
+- UI components must be optimized for accessibility and minimal re-renders.
+
+### 5. Accessibility and Inclusivity  
+- Follow W3C and WCAG guidelines for interface color, text contrast, and ARIA attributes.  
+- All educational materials must be fully accessible whether viewed in Thai or English.
+
+### 6. Governance and Decision-Making  
+- All technical and design decisions must align with these principles and be reviewed via Spec Kit processes before implementation.  
+- Team must document reasons for each major technical choice—especially regarding multilingual support, presentation architecture, and data privacy.
+- Modifications to the constitution require consensus among lead contributors, documented in /memory/constitution_update_checklist.md.
+
+### 7. Security and Data Privacy  
+- No personal user data or quiz results may be exposed to third parties or publicly accessible endpoints.  
+- All storage of user preferences (language, quizzes) uses secure, privacy-compliant methods (local storage, cookies with consent).  
+- PDPA compliance (for Thailand) infuses all data collection and presentation logic.
+
+### 8. Continuous Improvement  
+- Regular audits must occur for accessibility, usability, and language support quality.  
+- Community feedback (Thai and English users) is encouraged, and suggestions for improvement integrated via Spec Kit iterative enhancement process.
+
+***
+
+This constitution ensures the project covers critical requirements for code quality, language features, educational integrity, governance, and extensibility—ready for Spec Kit-driven development cycles.[1]
+
+[1](https://github.com/github/spec-kit)
+```
+
+
 ---
 Line:
 
