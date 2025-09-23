@@ -185,8 +185,7 @@ This improved documentation ensures completeness and reliability for developers,
 Below is a constitution.md draft tailored for your bilingual advertising and marketing tutorial website project (Next.js/Tailwind, Thai/English) using Spec Kit. This constitution covers code quality, testing standards, user experience consistency, performance guidelines, governance, and project-specific principles aligned with your requirements.[1]
 
 ***
-
-# constitution.md
+/constitution.md updte with:
 
 ## Project Governing Principles
 
@@ -235,7 +234,8 @@ This constitution ensures the project covers critical requirements for code qual
 
 [1](https://github.com/github/spec-kit)
 ```
-
+### 4. Make constution md
+/specify.md with: 
 
 ---
 Line:
