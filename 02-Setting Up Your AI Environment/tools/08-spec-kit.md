@@ -7,7 +7,7 @@ uv tool install specify-cli --from git+https://github.com/github/spec-kit.git
 specify init <PROJECT_NAME>
 specify check
 ```
-##​​​# 3. Create project details
+### 3. Create project details
 
 draft : 1
 ```
