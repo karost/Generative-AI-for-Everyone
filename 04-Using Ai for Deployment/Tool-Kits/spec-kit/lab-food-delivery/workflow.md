@@ -24,6 +24,9 @@ https://github.com/github/spec-kit
 1. CONSTITUTION: -> /constitution
 ```
 
+
+
+
 ```
 3. SPECIFICATION : -> /specify
 4. REVIEW PROJECT SPEC
@@ -33,7 +36,7 @@ https://github.com/github/spec-kit
 
 
 ### 4. Reference info.
-
+```
 1. PRD :
 ## Product Requirement Document: MaMa Food-Delivery 
 ## 1. ลูกค้า (Customer App)
@@ -167,19 +170,21 @@ https://github.com/github/spec-kit
 ### 4.3 Data/Image Handling
 - Photo upload: always save as both thumbnail (≥150x150px) and large (≥800x800px), auto-compression, CDN, preview & moderation, optimize for speed/cache
 - Image/jpg/png/webp; check security, provide preview before publish
-
+```
 ---
 
 ## 5. None functional Requirement
+```
 1. Architecture tech stack using full-stack application  
 2. Frame work: next.js 15, tailwind 4, chadcn/ui
-3. Template for research and reference in implementation : https://github.com/karost/Generative-AI-for-Everyone/blob/main/04-Using%20Ai%20for%20Deployment/Tool-Kits/spec-kit/lab-food-delivery/nextjs-tailwind-shadcn-template.md
-4. UX/UI must responsive to mobile, tablit and desktop but default for customer is mobile
-5. for customer page must support switch in three language : Thai, English, China. Ai must make a full reseach for next.js 15, tailwind 4, chadcn/ui that support multilanguage
-6. sample ui for customer
+3. Database: PostgreSQL
+4. Template for research and reference in implementation : https://github.com/karost/Generative-AI-for-Everyone/blob/main/04-Using%20Ai%20for%20Deployment/Tool-Kits/spec-kit/lab-food-delivery/nextjs-tailwind-shadcn-template.md
+5. UX/UI must responsive to mobile, tablit and desktop but default for customer is mobile
+6. for customer page must support switch in three language : Thai, English, China. Ai must make a full reseach for next.js 15, tailwind 4, chadcn/ui that support multilanguage
+7. sample ui for customer
 - https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/p-food-delivery/ui-01-product-list.png
 - https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/p-food-delivery/ui-02-product-details.png
-
+```
 3. screen short web template
 
 <img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/p-food-delivery/ui-01-product-list.png" width="400">
