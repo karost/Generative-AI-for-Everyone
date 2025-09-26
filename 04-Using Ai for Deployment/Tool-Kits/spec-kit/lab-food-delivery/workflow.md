@@ -42,4 +42,5 @@ https://github.com/github/spec-kit
 3. screen short web template
 
 <img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/p-food-delivery/ui-01-product-list.png" width="400">
+<img src="https://github.com/karost/Generative-AI-for-Everyone/blob/main/images/p-food-delivery/ui-02-product-details.png" width="400">
 
