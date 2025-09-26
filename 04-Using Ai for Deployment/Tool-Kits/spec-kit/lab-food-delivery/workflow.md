@@ -23,7 +23,83 @@ https://github.com/github/spec-kit
 ### 3. FILLING DATA
 1. CONSTITUTION: -> /constitution
 ```
+### I. Code Quality
+All code MUST be modular, reusable, and readable, following Next.js 15, Tailwind CSS 4, chadcn/ui . All functionality—including multilingual support (Thai,English,China ), quizzes, and data access—should be strictly separated into maintainable components and services. Use only up-to-date, supported dependencies. Avoid unnecessary complexity.
 
+provide web testing that Next.js 15, Tailwind CSS 4, chatcn/ui config correct and funtional to make a standard ux/ui
+
+**Rationale**: Maintainable code ensures long-term project sustainability and reduces technical debt.
+
+### II. Testing Standards & Practices
+Unit, integration, and UI tests MUST be written for every new feature or bug fix. All quizzes, language switching, and lesson navigation must have automated tests covering both Thai and English scenarios. Test coverage targets 90% for critical business logic (course content loading, user progress, and language persistence).
+
+**Testing Practices**:
+- **TDD Approach**: Write failing tests before implementation, verify tests fail, then implement functionality
+- **Contract Testing**: API endpoints must have contract tests validating request/response schemas
+- **Integration Testing**: Test complete user flows across language switching and navigation
+- **Build Validation**: All tests must pass before deployment; build failures halt deployment pipeline
+
+**Rationale**: Comprehensive testing ensures reliability across multilingual contexts and prevents regression.
+
+### III. User Experience Consistency
+Interfaces MUST be fully responsive, meeting mobile and desktop usability requirements. Switching between Thai and English must happen instantly, reflecting throughout navigation and content. The site MUST remember user language and progress reliably on all devices. All images, icons, and content must be relevant to Thai and international contexts.
+
+**Rationale**: Consistent UX builds user trust and ensures accessibility across diverse user bases.
+
+### IV. Performance & Build Guidelines
+Initial page load MUST complete in under 2 seconds for regional users. All JSON data updates and content rendering should be hot-reloaded and not require downtime. UI components MUST be optimized for accessibility and minimal re-renders.
+
+**Build & Performance Practices**:
+- **Build Validation**: Every commit must pass `npm run build` successfully
+- **Static Generation**: Leverage SSG for internationalized pages to optimize performance
+- **Bundle Analysis**: Monitor bundle size and eliminate unused dependencies
+- **Caching Strategy**: Implement proper service worker caching for offline functionality
+
+**Rationale**: Performance directly impacts user retention and satisfaction, especially in educational contexts.
+
+### V. Accessibility and Inclusivity
+Follow W3C and WCAG guidelines for interface color, text contrast, and ARIA attributes. All educational materials MUST be fully accessible whether viewed in Thai or English.
+
+**Rationale**: Accessibility ensures equal access to educational content for all users.
+
+## Development Standards
+
+### VI. Governance, Dependency & Version Control
+All technical and design decisions MUST align with these principles and be reviewed via Spec Kit processes before implementation. Team MUST document reasons for each major technical choice—especially regarding multilingual support, presentation architecture, and data privacy.
+
+**Dependency Management**:
+- **Version Compatibility**: Verify all dependencies are compatible (e.g., next-intl version compatibility with React cache API)
+- **Peer Dependencies**: Ensure peer dependencies are properly configured and compatible
+- **Security Updates**: Regularly update dependencies to address security vulnerabilities
+- **Breaking Changes**: Test thoroughly when upgrading major versions of dependencies
+
+**Version Control Practices**:
+- **Task Tracking**: Use systematic task numbering (T001, T002...) with clear dependencies
+- **Progress Marking**: Update task status ([x] for completed, [-] for in-progress) in real-time
+- **Phase Execution**: Complete phases sequentially (Setup → Tests → Core → Integration → Polish)
+- **Dependency Resolution**: Respect task dependencies and parallel execution rules
+
+**Rationale**: Structured governance prevents technical drift and ensures alignment with project goals.
+
+### VII. Database Design and Initialization
+- Setup DATABASE PostgreSQL
+- Any feature or service requiring persistent data must be preceded by a formal data model design documented in its specification.
+- Following data model design, generate and validate database schema and migration scripts for all environments (dev, test, prod).
+- No unit or integration test relying on the database may run until DB provisioning and migrations are complete.
+- All database-dependent tasks, configuration files, and initialization scripts (including rollback) must be listed in specs and tasks before implementation or deployment.
+- Pending tests or services relying on setup must be clearly marked and activated once DB workflow is validated.
+- Reference standard.md for schema and DB migration best practices and naming conventions.
+
+**Rationale**: Proper database design and initialization ensures data integrity, performance, and maintainability across all environments.
+
+### VIII. Database Testing Standards
+- All unit tests MUST use proper mocking/stubbing techniques for database operations and MUST NOT use SQLite or other in-memory databases.
+- Integration tests MAY use test databases but MUST be isolated and properly cleaned between test runs.
+- Database-dependent unit tests MUST mock Prisma client operations using Jest mocks or equivalent testing framework capabilities.
+- Test data MUST be programmatically generated and cleaned up to ensure test isolation and reproducibility.
+- Database connection testing MUST be handled in integration tests, not unit tests.
+
+**Rationale**: Proper database testing separation ensures unit tests remain fast, deterministic, and independent of database state, while integration tests validate actual database operations.
 
 
 
