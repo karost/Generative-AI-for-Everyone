@@ -171,7 +171,7 @@ https://github.com/github/spec-kit
 ## 5. None functional Requirement
 1. Architecture tech stack using full-stack application  
 2. Frame work: next.js 15, tailwind 4, chadcn/ui
-3. Implmentation template : https://github.com/karost/Generative-AI-for-Everyone/blob/main/04-Using%20Ai%20for%20Deployment/Tool-Kits/spec-kit/lab-food-delivery/nextjs-tailwind-shadcn-template.md
+3. Template for research and reference in implementation : https://github.com/karost/Generative-AI-for-Everyone/blob/main/04-Using%20Ai%20for%20Deployment/Tool-Kits/spec-kit/lab-food-delivery/nextjs-tailwind-shadcn-template.md
 4. UX/UI must responsive to mobile, tablit and desktop but default for customer is mobile
 5. for customer page must support switch in three language : Thai, English, China. Ai must make a full reseach for next.js 15, tailwind 4, chadcn/ui that support multilanguage
 6. sample ui for customer
