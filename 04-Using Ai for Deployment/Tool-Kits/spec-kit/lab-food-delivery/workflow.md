@@ -161,36 +161,10 @@ https://github.com/github/spec-kit
 
 ---
 
-## 5. Analysis for Completeness & Correctness
-
-- **No ambiguous/duplicative** flows remain: All requirements about registration, user/vendor profiles, menu/image flows, order & delivery management, notifications, role splits, and security are consolidated and clarified.
-- **Correctness**: Latest policies take precedence (e.g., guest checkout is *not* allowed, mandatory registration/verification & admin approval for both users and vendors). All versions’ must-have features are either merged or the stricter/updated rule included.
-- All roles & flows (customer, vendor, admin) are fully mapped; APIs include both old and newly mentioned endpoints; menu/image handling/preview/approval workflow is unified; UI/UX and compliance are in the requirements.
-- **No critical platform feature missed** from any version. If there’s any specific detail that *only* appears in one version (such as auto image resize, or unique reporting, or security requirements), it's included here.
-- **Edge compliance**: Security, privacy, auto-logout, encrypted fields, role control, logging, and GDPR/PDPA all included—covering industry best practices.
-
----
-
-## **Summary Table: Key Differences, Edge Cases, Strictest Rule Chosen**
-
-| Area                  | v1                | v2                | v3                       | Final/Chosen         |
-|-----------------------|-------------------|-------------------|--------------------------|----------------------|
-| Registration          | Guest allowed     | Guest allowed     | Mandatory registration   | Mandatory (no guest) |
-| Vendor Approve/Verify | Optional/None     | None              | Mandatory docs & admin   | Mandatory            |
-| Menu Photos           | Not emphasized    | Two-size required | Two-size, mobile upload  | Two-size, strict     |
-| API endpoints         | Detailed          | Product/image API | User/vendor reg APIs     | Full, merged         |
-| UX/Flow/Screen        | Short, sticky     | Add preview, phot| Profile, security, logs  | Combined, full       |
-| Data & Security       | Simple            | File optimize     | Encrypt, PDPA, logging   | Strictest            |
-
----
-
-**This version can now be used as a full, up-to-date PRD for dev/design/planning for a food delivery platform. If you need deliverables per role (customer/vendor/admin), API details, user flow diagrams, or UI wireframes, I can generate those as well.**
-
-karost: why you not let copy your response
-
-GitHub Copilot: You are able to copy my responses. If you find any issues copying from this chat, it may be due to the interface or how your browser/editor handles text selection.  
-If you want responses in a more copy-friendly or plain text format, just let me know—I can provide answers formatted for easy copying!
-
+## 5. None functional Requirement
+1. Architecture tech stack using full-stack application  
+2. Frame work: next.js 15, tailwind 4, chadcn/ui
+3. Implmentation template : 
 2. Tempate ( nextjs-tailwind-chadcn/ui)
 
 
