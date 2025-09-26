@@ -28,9 +28,15 @@ https://github.com/github/spec-kit
 
 
 ```
-3. SPECIFICATION : -> /specify
-4. REVIEW PROJECT SPEC
-5. IMPLEMENT PROJECT
+2. SPECIFICATION : -> /specify
+```
+input PRD file 
+```
+2. CRARIFY: -> /clarify
+3. MAKE PLAN: -> /plan
+4. GENERATE TASKS -> /task
+5. ANALYSIS TASKS -> /analyze
+6. IMPLEMENT PROJECT -> /implement
 
 
 
