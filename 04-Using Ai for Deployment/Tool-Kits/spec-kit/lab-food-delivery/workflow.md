@@ -28,7 +28,7 @@ https://github.com/github/spec-kit
 ### 4. Reference info.
 
 1. PRD :
-## Product Requirement Document
+## Product Requirement Document: MaMa Food-Delivery 
 ## 1. ลูกค้า (Customer App)
 
 ### 1.1 User Registration & Profile (Latest Policy)
