@@ -64,6 +64,8 @@ https://github.com/github/spec-kit
 - เก็บ/แสดง order history & status
 - Sync, notification, tracking—all real-time
 
+### 1.4 for customer page must support switch in three language : Thai, English, China. Ai must make a full reseach for next.js 15, tailwind 4, chadcn/ui that support multilanguage  
+
 ---
 
 ## 2. ร้านขายอาหาร (Vendor/Restaurant Panel)
