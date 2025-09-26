@@ -20,7 +20,14 @@ https://github.com/github/spec-kit
 - Tech stack ( NextJS-15, Tailwind 4, chadcn/ui) , custom templte -> /plan
 - Project Instructions -> /constitution
 
+### 3. FILLING DATA
+1. CONSTITUTION: -> /constitution
+```
 
+```
+3. SPECIFICATION : -> /specify
+4. REVIEW PROJECT SPEC
+5. IMPLEMENT PROJECT
 
 
 
