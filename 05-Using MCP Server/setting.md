@@ -6,5 +6,18 @@ npx shadcn@latest mcp init
 ✔ Configuring MCP server.
 ✔ Installing dependencies.
 
-Configuration saved to .vscode/mcp.json.
+Configuration saved to .vscode/mcp.json. :
+
+{
+  "servers": {
+    "shadcn": {
+      "command": "npx",
+      "args": [
+        "shadcn@latest",
+        "mcp"
+      ]
+    }
+  }
+}
+
 ```
