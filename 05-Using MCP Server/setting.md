@@ -47,6 +47,14 @@ Playwight:
         "shadcn@latest",
         "mcp"
       ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ],
+      "disabled": false,
+      "alwaysAllow": []
     }
   }
 }
