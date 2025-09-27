@@ -1,7 +1,7 @@
 Install chadcn/ui MCP office version
 
 ```
-thanit@majestic .qwen % npx shadcn@latest mcp init
+npx shadcn@latest mcp init
 ✔ Which MCP client are you using? › VS Code
 ✔ Configuring MCP server.
 ✔ Installing dependencies.
