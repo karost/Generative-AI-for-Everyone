@@ -35,3 +35,19 @@ Playwight:
   }
 }
 ```
+---
+### Kilo-code MCP Setting
+
+```
+{
+  "mcpServers": {
+    "shadcn": {
+      "command": "npx",
+      "args": [
+        "shadcn@latest",
+        "mcp"
+      ]
+    }
+  }
+}
+```
