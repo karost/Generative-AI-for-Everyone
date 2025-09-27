@@ -18,3 +18,10 @@ qwen
 
 ```
 THEN YOU CAN SELELCT BETWEEN QWEN MODEL AND OPENAI MODEL
+
+3. MODLE USE
+GPT-4o is good for image read : red web capture scrren and descript
+GPT-41 is good in text job like project spec desing and coding same like GPT-4o
+
+for best coding : GPT-5, GPT-4o, GPT-4-Turbo , GPT-3.5-Turbo
+
