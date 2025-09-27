@@ -21,3 +21,17 @@ Configuration saved to .vscode/mcp.json. :
 }
 
 ```
+Playwight:
+
+```
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    }
+  }
+}
+```
