@@ -1,1 +1,20 @@
 
+
+How to switch between MODEL QWEN3-CODER AND OPNEAI MODEL
+
+
+1. SETTING ENVIRONMENT VARIABLE  
+```
+export OPENAI_API_KEY=your_openai_key
+export OPENAI_BASE_URL="https://api.openai.com/v1"
+export OPENAI_MODEL="gpt-4o"
+
+```
+
+2. CLOSE CONSOLE AND RE-OPEN AGAIN
+```
+qwen
+/auth
+
+```
+THEN YOU CAN SELELCT BETWEEN QWEN MODEL AND OPENAI MODEL
