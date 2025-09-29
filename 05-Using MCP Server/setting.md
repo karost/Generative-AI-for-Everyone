@@ -3,8 +3,9 @@
 ```
 npx shadcn@latest mcp init
 
+// with client config
 npx shadcn@latest mcp init --client claude
-
+npx shadcn@latest mcp init --client vscode
 ```
 
 
