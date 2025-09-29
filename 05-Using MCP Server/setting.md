@@ -7,7 +7,14 @@ npx shadcn@latest mcp init
 npx shadcn@latest mcp init --client claude
 npx shadcn@latest mcp init --client vscode
 ```
+- playwright MCP install : 
+```
+npm install -g @microsoft/playwright-mcp
 
+// init project
+npx playwright-mcp init
+
+```
 
 ### 2.Setting MCP Server Config
 
