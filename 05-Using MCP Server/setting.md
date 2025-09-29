@@ -1,4 +1,14 @@
-Install chadcn/ui MCP office version
+### 1.Install MCP Server in local macine as global 
+- chadcn/ui MCP office version : https://ui.shadcn.com/docs/mcp
+```
+npx shadcn@latest mcp init
+
+npx shadcn@latest mcp init --client claude
+
+```
+
+
+### 2.Setting MCP Server Config
 
 ```
 npx shadcn@latest mcp init
