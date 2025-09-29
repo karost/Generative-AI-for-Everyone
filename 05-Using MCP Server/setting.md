@@ -9,7 +9,8 @@ npx shadcn@latest mcp init --client vscode
 ```
 - playwright MCP install : 
 ```
-npm install -g @microsoft/playwright-mcp
+npm install -g playwright-mcp
+
 
 // init project
 npx playwright-mcp init
