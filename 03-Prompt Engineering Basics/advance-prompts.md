@@ -1,3 +1,10 @@
+use public web to create prototype 
+https://huggingface.co/spaces/enzostvs/deepsite
+
+
+
+
+prompt to change web image capture to index.html and index.css
 ```
 I want to generate a webpage that accurately replicates the layout and style of website's homepage, as seen in the provided image. The task requires the following steps:
 Input Requirements:
